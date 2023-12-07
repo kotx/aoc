@@ -1,5 +1,4 @@
 from collections import Counter
-from functools import cmp_to_key
 
 # fivekind: 6
 # fourkind: 5
